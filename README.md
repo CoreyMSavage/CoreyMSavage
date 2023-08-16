@@ -26,7 +26,7 @@
   
 - 💞️ I’m looking to collaborate on literally anything
   
-- 💡 A problem that I'd like to explore with programming is finding an accurate way to measure "PD" (Pupil Distance) for prescription glasses lenses via an app/website (I recently ordered some glasses online and the lenses were terribly inaccurate when compared to in-person measurements)
+- 💡 A problem that I'd like to explore with programming is finding an accurate way to measure "PD" (Pupil Distance) for prescription glasses lenses via an app/website (I recently ordered some glasses online and the lenses were terribly inaccurate when compared to in-person Pupilometer measurements)
   
 - 📫 How to reach me: savage.corey@ymail.com
 
