@@ -12,6 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
 ---
 
 ### :technologist: About Me :
@@ -29,3 +30,13 @@
   
 - 📫 How to reach me: savage.corey@ymail.com
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+</div>
