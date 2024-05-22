@@ -18,7 +18,7 @@
 ### :technologist: About Me :
 
 
-- 🤠 Howdy, I’m Corey Savage, an avionics technician currently studying Computer Science at Western Governor's University
+- 🤠 Howdy, I’m Corey Savage, an avionics technician (with a background in DoD intelligence, surveillance and reconnaissance) currently studying Computer Science at Western Governor's University
   
 - 📫 How to reach me: savage.corey@ymail.com
 
