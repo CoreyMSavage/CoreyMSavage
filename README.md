@@ -18,15 +18,7 @@
 ### :technologist: About Me :
 
 
-- 🤠 Howdy, I’m Corey Savage, an avionics technician turned hobbyist programmer (perhaps an entry-level career programmer some day)
-  
-- 👀 I’m currently interested in hobbyist game development in Unreal Engine 5, DevOps fundamentals, browser automation with Selenium and porting DOOM to embedded systems
-  
-- 🌱 I’m currently learning C++/Blueprints, Unreal Engine 5 interface/tools, Quixel Mixer, Blender, Clip Studio Paint and probably a plethora of other things
-  
-- 💞️ I’m looking to collaborate on literally anything
-  
-- 💡 A problem that I'd like to explore with programming is finding an accurate way to measure "PD" (Pupil Distance) for prescription glasses lenses via an app/website (I recently ordered some glasses online and the lenses were terribly inaccurate when compared to in-person Pupilometer measurements)
+- 🤠 Howdy, I’m Corey Savage, an avionics technician currently studying Computer Science at Western Governor's University
   
 - 📫 How to reach me: savage.corey@ymail.com
 
@@ -38,5 +30,13 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
